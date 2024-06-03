@@ -10,7 +10,7 @@
 **Termux-Hydra**
 *Is Hydra Mini-ToolKit login cracker which supports numerous protocols to attack On Termux. It is very fast and flexible, and new modules are easy to add its use Menu Options**
 
-![Termux-Hydra Banner](https://github.com/iamunixtz/Termux-Hydra/blob/main/banner-image.png)
+![Termux-Hydra Banner](https://github.com/anonghost-sec/Termux-Hydra/blob/main/banner-image.png)
 
 **Available Features**
 - [x] SSH Brute Attack
@@ -34,7 +34,7 @@ pkg update && pkg upgrade
 pkg install git
 pkg install python
 pip install colorama
-git clone https://github.com/iamunixtz/Termux-Hydra.git
+git clone https://github.com/anonghost-sec/Termux-Hydra.git
 cd Termux-Hydra
 python setup.py
 ```
